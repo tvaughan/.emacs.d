@@ -10,7 +10,7 @@
 (depends-on "exec-path-from-shell")
 (depends-on "expand-region")
 (depends-on "fill-column-indicator")
-;; TODO: (depends-on "ido-at-point")
+(depends-on "ido-at-point" :git "git@github.com:katspaugh/ido-at-point.git")
 (depends-on "ido-ubiquitous")
 (depends-on "ido-vertical-mode")
 (depends-on "magit")
