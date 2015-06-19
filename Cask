@@ -6,6 +6,7 @@
 (depends-on "cider")
 (depends-on "color-theme-sanityinc-tomorrow")
 (depends-on "company")
+(depends-on "define-word")
 (depends-on "dockerfile-mode")
 (depends-on "exec-path-from-shell")
 (depends-on "expand-region")
