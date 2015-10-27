@@ -14,6 +14,7 @@
 (depends-on "ido-at-point" :git "git@github.com:katspaugh/ido-at-point.git")
 (depends-on "ido-ubiquitous")
 (depends-on "ido-vertical-mode")
+(depends-on "jsx-mode")
 (depends-on "magit")
 (depends-on "markdown-mode")
 (depends-on "powerline")
