@@ -11,6 +11,7 @@
 (depends-on "exec-path-from-shell")
 (depends-on "expand-region")
 (depends-on "fill-column-indicator")
+(depends-on "flycheck-pos-tip")
 (depends-on "ido-at-point" :git "git@github.com:katspaugh/ido-at-point.git")
 (depends-on "ido-ubiquitous")
 (depends-on "ido-vertical-mode")
