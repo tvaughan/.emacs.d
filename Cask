@@ -17,6 +17,7 @@
 (depends-on "jsx-mode")
 (depends-on "magit")
 (depends-on "markdown-mode")
+(depends-on "multi-compile" :git "git@github.com:ReanGD/emacs-multi-compile.git")
 (depends-on "powerline")
 (depends-on "smex")
 (depends-on "terraform-mode")
